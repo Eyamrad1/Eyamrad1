@@ -16,12 +16,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/mrad-eya" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrad eya" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/aya-mrad" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aya mrad" height="30" width="40" />
-    </a>
+   <a href="https://www.linkedin.com/in/mrad-eya-7b89ba241/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrad eya" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100009772632664&mibextid=ZbWKwL" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aya mrad" height="30" width="40" />
+</a>
     <a href="https://instagram.com/mrad_eya_" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrad_eya_" height="30" width="40" />
     </a>
