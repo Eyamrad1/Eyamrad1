@@ -9,7 +9,7 @@
 
 <!-- Coding Girl Image -->
 <p align="center">
-    <img src="https://media.tenor.com/haqAnfyoG54AAAAC/coding-girl.gif" alt="Coding Girl GIF" width="400" />
+    <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl GIF" width="400" />
 </p>
 
 - 📫 How to reach me **eya.mrad@esprit.tn**
