@@ -6,7 +6,6 @@
     <br>🎧 When I'm not coding, you’ll find me lost in music or crafting stories through writing. 
     <br>📧 Let’s connect! Reach me at eya.mrad@esprit.tn — I’d love to hear from you.
 </h3>
-
 <!-- Coding Girl Image -->
 <p align="center">
     <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl GIF" width="400" />
