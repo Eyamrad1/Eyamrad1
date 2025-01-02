@@ -13,6 +13,11 @@
 
 - 📫 How to reach me **eya.mrad@esprit.tn**
 
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Eyamrad1&color=blue" alt="EyaMrad profile views" />
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/mrad-eya-7b89ba241/" target="_blank">
